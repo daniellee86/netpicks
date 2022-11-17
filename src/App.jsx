@@ -8,9 +8,6 @@ import Movies from './pages/Movies';
 import Navigation from './components/NavBar';
 
 
-//API Key: 809945612984fb6bf093bc390cd42fe4
-//https://api.themoviedb.org/3/movie/popular?api_key=809945612984fb6bf093bc390cd42fe4
-
 function App() {
 
   return (
