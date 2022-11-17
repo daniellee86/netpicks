@@ -61,7 +61,7 @@ const Home = () => {
     <div className="placeHolder">
     <Image src="https://images.pexels.com/photos/7234276/pexels-photo-7234276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
     <Info>
-    <InfoTop>PISSFLAPS. WORK. DAmnljIT</InfoTop>
+    <InfoTop>PISSFLAPS. WORK. DAmnljIT herro</InfoTop>
     <Desc>Discover your favourite movies at Netpicks.<br/> Create watchlists for you and your loved ones.<br/> Join the discussion and leave a review.</Desc>
      <InfoBottom>All the content. All the time.</InfoBottom>
     </Info>
