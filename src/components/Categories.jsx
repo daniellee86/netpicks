@@ -12,9 +12,11 @@ ${mobile({ padding: "0px", flexDirection:"column" })}
 `
 const Wrapper = styled.div`
 flex: 1;
-margin: 3px;
+margin: 20px;
 height: 70vh;
 position: relative;
+border: 2px solid white;
+border-radius: 25px 100px;
 `
 const Image = styled.img`
 width: 100%;
@@ -35,13 +37,14 @@ justify-content: center;
 
 `
 const Title = styled.h1`
-font-size: 50px;
+font-size: 70px;
 color: red;
 margin: 20px;
 font-weight: 400;
 `
 const Button = styled.button`
-font-size: 20px;
+font-size: 30px;
+font-weight: 900;
 border: solid 1.5px black;
 padding: 10px 30px;
 background-color: transparent;

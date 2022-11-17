@@ -22,12 +22,21 @@ h1 {
 
 .placeHolder{
    height: 90vh;
+   width: 100%;
+   padding: 150px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
     color: white;
     position: relative;
+    background-image: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.6502976190476191) 50%, rgba(0,0,0,0) 100%),
+     url("https://images.pexels.com/photos/4009401/pexels-photo-4009401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    object-fit: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
 }
 
 /* NAVBAR  */
@@ -65,11 +74,17 @@ padding: 1% 10% 1% 1%;
 
 
 .link {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     list-style-type: none;
     text-decoration: none;
     color: white;
     margin: 0 20px 0 20px; 
+}
+
+.link:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-offset: 10px;
 }
 
 .link.active{
