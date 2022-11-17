@@ -16,7 +16,7 @@ function About() {
   return (
     <>
     {/* <AboutPage>
-          <h2>NETPICKS. Discover new movies. Review your favourites!</h2>
+          <h2>NETPICKS. Discover new movies. Review all your favourites!</h2>
         
     </AboutPage> */}
     <Newsletter/>  
