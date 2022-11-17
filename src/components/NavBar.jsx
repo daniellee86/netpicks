@@ -7,7 +7,7 @@ function Navigation() {
       <div className='navBar'>
           <div className='navWrap'>
 
-           <h1 className='netPicks'>NETPICKS</h1>
+           <h1 className='netPicks'>NETttttPICKS</h1>
             <ul className='list'>
               <li className='listItem'>
                  <NavLink className='link' to="/netpicks/">Home</NavLink>
