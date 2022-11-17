@@ -16,7 +16,7 @@ function App() {
       <Router>
       <Navigation/>
         <Routes>
-          <Route exact path = "/" element = {<Home/>} />
+          <Route exact path = "/netpicks" element = {<Home/>} />
           <Route exact path = "/Movies" element = {<Movies/>} />
           <Route exact path = "/About" element = {<About/>} />
           
