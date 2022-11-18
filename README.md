@@ -1,5 +1,7 @@
 # NETPICKS
 
+---
+
 ### View the live project [here.](https://daniellee86.github.io/netpicks/)
 
 The aim for the project was to create an App that consumed data from an API.
@@ -22,11 +24,19 @@ The project was built using react Styled-Components and Framer-Motion.
 ---
 
    <img src="./images/homepage.png"/>
-   ---
+
+---
+
    <img src="./images/movies.png"/>
-   ---
+
+---
+
    <img src="./images/model.png"/>
-   ---
+
+---
+
    <img src="./images/testing.png"/>
-   ---  
+
+---
+
 # netpicks
